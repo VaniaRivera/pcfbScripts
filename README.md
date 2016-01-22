@@ -1,5 +1,7 @@
 #README.md
 
+All the screenshots of what I did are in a Word document called "github_Vania.docx"
+
 This  documents might not have useful picture but at least a nice picture of Tulum
 
 https://cloud.githubusercontent.com/assets/16833530/12513873/760323a4-c120-11e5-8268-4191ae051469.jpg
